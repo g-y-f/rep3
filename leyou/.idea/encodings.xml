@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lycommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lygetway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyitem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyitem/ly-item-intreface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyitem/lyitem-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyregister" charset="UTF-8" />
+  </component>
+</project>
